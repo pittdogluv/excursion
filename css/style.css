@@ -1,9 +1,7 @@
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: White;
-  text-align: center;
 }
 
 #download {
@@ -14,4 +12,26 @@ h1 {
 
 body {
   background-color: Black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+video {
+  object-fit: contain;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+#paraone {
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: Gray;
 }
